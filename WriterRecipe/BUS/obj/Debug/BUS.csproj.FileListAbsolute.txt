@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\bin\Debug\BUS.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\bin\Debug\BUS.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\bin\Debug\DAL.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\bin\Debug\ModelData.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\bin\Debug\DAL.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\bin\Debug\DAL.dll.config
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\bin\Debug\ModelData.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\obj\Debug\BUS.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\BUS\obj\Debug\BUS.pdb

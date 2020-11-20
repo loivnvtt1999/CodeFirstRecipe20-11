@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ModelData.tblRecipe>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Danh sách Recipe</h2>
+
+<p>
+    @Html.ActionLink("Thêm mới", "AddRecipe")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Content)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.WriteID)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Content)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.WriteID)
+        </td>
+        <td>
+            @Html.ActionLink("Sửa", "Edit", new { id=item.RecipeID }) |
+            @Html.ActionLink("Chi tiết", "Details", new { id=item.RecipeID }) |
+            @Html.ActionLink("Xóa", "Delete", new { id=item.RecipeID })
+        </td>
+    </tr>
+}
+
+</table>

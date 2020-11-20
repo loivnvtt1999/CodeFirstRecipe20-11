@@ -1,0 +1,5 @@
+﻿@model IEnumerable<ModelData.tblWriter>
+@foreach (var item in Model)
+{
+    <a style="text-decoration:none;" href="@Url.Action("getRecipewithWriter","Writer",new {ID=item.WriterID})">@item.WriterName</a><br/>
+}

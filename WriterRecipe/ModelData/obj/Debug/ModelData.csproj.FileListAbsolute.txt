@@ -1,0 +1,5 @@
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\ModelData\bin\Debug\ModelData.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\ModelData\bin\Debug\ModelData.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\ModelData\obj\Debug\ModelData.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\ModelData\obj\Debug\ModelData.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_CodeFirst_ASP\WriterRecipe\ModelData\obj\Debug\ModelData.pdb
